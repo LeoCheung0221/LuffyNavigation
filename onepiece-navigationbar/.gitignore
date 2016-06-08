@@ -1,1 +1,39 @@
-/build
+/captures
+
+#build application files
+*.apk
+*.ap_
+
+#files for the dex VM
+*.dex
+
+#java class files
+*.class
+
+#genarated files
+bin/
+gen/
+
+#local configation file (sdk path etc.)
+local.properties
+
+#windows thumbnail db
+Thumbs.db
+
+#OSX files
+.DS_Store
+
+#Eclipse projects files
+.classpath
+.project
+
+#Android Studio
+*.iml
+.idea
+#.idea/workspace.xml
+/app/src/test
+/app/src/androidTest
+
+#.idea/workspace.xml - remove # and .idea if it better suit your needs
+.gradle
+build/
