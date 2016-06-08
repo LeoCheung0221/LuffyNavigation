@@ -13,7 +13,7 @@ import android.widget.FrameLayout;
 
 /**
  * author：leo on 2016/6/7 18:23
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: helper
  * what & why is modified:
  */

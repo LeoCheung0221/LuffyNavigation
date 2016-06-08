@@ -18,7 +18,7 @@ import java.lang.ref.WeakReference;
 
 /**
  * author：leo on 2016/6/7 18:20
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: holds and manages data for badges
  * what & why is modified:
  */

@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 /**
  * author：leo on 2016/6/7 18:32
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: TODO
  * what & why is modified:
  */

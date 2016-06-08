@@ -11,7 +11,7 @@ import java.lang.annotation.RetentionPolicy;
 
 /**
  * author：leo on 2016/6/7 17:18
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: abstract class of
  * what & why is modified:
  */

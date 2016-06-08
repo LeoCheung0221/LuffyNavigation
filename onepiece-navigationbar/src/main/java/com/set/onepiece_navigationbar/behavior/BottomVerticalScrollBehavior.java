@@ -9,7 +9,7 @@ import android.view.animation.Interpolator;
 
 /**
  * author：leo on 2016/6/7 17:16
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: Vertical behavior of Scrolling
  * what & why is modified:
  */

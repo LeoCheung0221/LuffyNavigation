@@ -8,7 +8,7 @@ import android.view.WindowManager;
 
 /**
  * author：leo on 2016/6/7 18:31
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: These are common utils and can be used for other projects as well
  * what & why is modified:
  */

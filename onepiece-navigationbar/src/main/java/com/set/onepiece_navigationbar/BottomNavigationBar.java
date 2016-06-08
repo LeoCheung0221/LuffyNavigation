@@ -30,7 +30,7 @@ import java.util.ArrayList;
 
 /**
  * author：leo on 2016/6/7 18:28
- * email： leocheung4ever@gmail.com
+ * email：leocheung4ever@gmail.com
  * description: This class is used to draw the layout and this acts like a bridge between
  * library and app, all details can be modified via this class.
  * what & why is modified:
